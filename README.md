@@ -1,4 +1,4 @@
-# HR Analytics Power BI Report
+# CoreHR : HR Analytics Dashboard
 
 ## Overview
 This Power BI report provides an in-depth HR-focused analysis of employee data, offering insights into demographics, work-life balance, attrition trends, and other key workforce metrics. The report is designed to help HR teams make data-driven decisions regarding employee retention, job satisfaction, and overall workforce management.
